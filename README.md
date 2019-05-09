@@ -4,6 +4,10 @@
 
 Read the description of the environment in subsection 3.1 of [this paper](https://arxiv.org/pdf/cs/9905014.pdf).  You can verify that the description in the paper matches the OpenAI Gym environment by peeking at the code [here](https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py).
 
+To run this project, first:
+1. setup a conda environment running at least Python3
+2. run "pip install -r requirements.txt"
+3. python main.py
 
 ### Instructions
 
